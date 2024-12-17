@@ -97,16 +97,6 @@
 
 ---
 
-## Screenshots
-
-### Startseite  
-![Startseite](screenshot-home.png)
-
-### Counter-Seite  
-![Counter-Seite](screenshot-counter.png)
-
----
-
 ## Credits
 
 - Vue.js 3: [https://vuejs.org](https://vuejs.org)
