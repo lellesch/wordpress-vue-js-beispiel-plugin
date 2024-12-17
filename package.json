@@ -1,0 +1,22 @@
+{
+  "name": "mein-vue-plugin",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "babel-loader": "^9.2.1",
+    "css-loader": "^7.1.2",
+    "vue": "^3.5.13",
+    "vue-loader": "^17.4.2",
+    "vue-style-loader": "^4.1.3",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "vue-router": "^4.5.0"
+  }
+}
